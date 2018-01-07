@@ -1,0 +1,11 @@
+{
+    "company_name": "cuberoot", 
+    "contact_email": "atul@cuberoot.net", 
+    "contact_name": "atul sahu", 
+    "hostname": "3979ae95c95a45be8f09bef131d81a21", 
+    "instance_count": 10, 
+    "license_date": 2114954144, 
+    "license_key": "048f34b228605cb70f2f8c8754f3752f7cf7e55cd9bfe2aba0f1e2cc79888f28", 
+    "license_type": "basic", 
+    "subscription_name": "Red Hat Ansible Tower, Self-Support (10 Managed Nodes)"
+}
